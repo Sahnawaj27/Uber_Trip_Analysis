@@ -3,6 +3,8 @@ This is a data exploration project for exploring various information regarding u
 Business Problem: Analyzing uber pickups in august to improve customer satisfaction and availability of cabs and less waiting time for customer.
 
 Project Summary: The project aims to analyze customer behavior and booking time and place pattern on uber along with long. and lat. to enhance customer satisfaction. By leveraging the provided data, several key insights can be derived:
+
+
 How many unique TLC base companies are affiliated with the Uber pickups: by counting the unique base companies
 The date with the highest number of pickups by grouping data using date and find the max value
 Number of pickups in a day by counting the max of pickup 

@@ -1,4 +1,4 @@
-This is a data exploration project for exploring various information regarding uber pickups for august dataset.That include DAte?time of pickup, long., lat. company base etc.
+This is a data exploration project for exploring various information regarding uber pickups for august dataset.That include Date,time of pickup, long., lat. company base etc.
 
 Business Problem: Analyzing uber pickups in august to improve customer satisfaction and availability of cabs and less waiting time for customer.
 
